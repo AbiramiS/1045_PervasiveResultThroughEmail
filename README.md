@@ -1,0 +1,22 @@
+# 1045_PervasiveResultThroughEmail
+
+Name (Project heading) : PERVASIVE RESULT THROUGH EMAIL
+
+ Remote Centre ID (RC_ID) : 1045
+ 
+College / Institute Name : Saveetha Engineering College
+
+City, State, Pin Code : Chennai,Tamil Nadu,602105
+
+PROJECT SUPERVISOR:  Ms.S.ARUNA DEVI, M.E., (Ph.D.,)  
+
+Name/’s of the Team Members:SUBRAMANIAN V , SURESH N,VISHAAL V S	
+
+About (Short Description / Summary):Recently, Internet has become the sole source of information in any domain. Results are usually displayed in the portal of respective colleges. Students start to view their respective results at the same time. Many people approaching their results may cause time delay and chance of server jamming. The request is given by many clients and thus the response is tough to be given by server. This cause  data traffic. This data traffic can be avoided in such a way by replacing the previous method .In previous method the request has to be given by the client and wait for the response from server. In this method we use the technique by which the server gives the response to many clients with simple request given by the client. The client can simply view their results in the respective mail ids. The advantage of this project is its enough for the staff to just enter the mail id for the first time. After the mail id is specified for first time, the results can be send individually to all mail ids with only specification of marks.
+
+
+
+
+
+
+
